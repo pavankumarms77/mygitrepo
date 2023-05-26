@@ -11,5 +11,7 @@ my change from remote repo 2
 
 my change from master repo
 
+..............
+my 2nd change from local repo
 
 >>>>>>> refs/remotes/origin/master
