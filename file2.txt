@@ -6,9 +6,8 @@ ms pavan
 
 iam  pavan
 my change from remote repo 
-<<<<<<< HEAD
 my change from remote repo 2
-=======
+
 
 my change from master repo
 
